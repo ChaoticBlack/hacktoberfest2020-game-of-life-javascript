@@ -9,7 +9,7 @@ And I also hope this repository is a [good start point](https://github.com/TroyT
 ## Demo
 
 ![Demo gif](./static/favicon.gif)  
-Website: https://troytae.github.io/game-of-life/  
+Website:https://dscpvgcoet.github.io/hacktoberfest2020-game-of-life-javascript/
 
 ## Installation
 
@@ -41,10 +41,4 @@ npm run start
 ```
 Then you can go to http://localhost:4200 in your browser.
 
-## Contributors
 
-<a href="https://github.com/TroyTae/game-of-life/graphs/contributors">
-  <img src="https://contributors-img.firebaseapp.com/image?repo=TroyTae/game-of-life" />
-</a>
-
-Made with [contributors-img](https://contributors-img.firebaseapp.com)
