@@ -1,0 +1,17 @@
+{
+  "private": true,
+  "eslintConfig": {
+    "extends": "troy-recommended"
+  },
+  "devDependencies": {
+    "eslint-config-troy-recommended": "git://github.com/TroyTae/eslint-config-troy-recommended.git",
+    "troyjs": "git+https://github.com/TroyTae/troyjs.git",
+    "one-spaces": "^1.3.4"
+  },
+  "scripts": {
+    "start": "webpack-dev-server",
+    "build": "webpack --mode=production",
+    "fix:lint": "eslint --fix --ext .ts src/",
+    "test:lint": "eslint --ext .ts src/"
+  }
+}
